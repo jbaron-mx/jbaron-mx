@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I love coding and learning new tech, mostly in PHP and Laravel's ecosystem.
+I love coding and learning new tech in the DevOps/SRE arena.
 
 Recently dipping my toes into blockchain and economics.
 
